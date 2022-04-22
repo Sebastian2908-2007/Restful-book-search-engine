@@ -50,7 +50,7 @@ sebastiancrespin279@gmail.com
 https://stark-fortress-25117.herokuapp.com/
 
 ## Sample Picture
-
+![Screenshot (242)](https://user-images.githubusercontent.com/77297220/164611555-3ad8f1b2-85f4-4556-9a0d-97aa67794ddc.png)
 
 ## License
 ISC 
